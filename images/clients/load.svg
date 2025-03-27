@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="300" height="300" viewBox="0 0 300 300" fill="none" stroke="none" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <g id="Группа">
+    <rect id="Прямоугольник" width="300" height="300" style="fill:#AEAEAE;fill-rule:evenodd;fill-opacity:0.62;mix-blend-mode:normal;" />
+    <path id="Фигура" d="M50 0C22.445 0 0 22.445 0 50C0 77.555 22.445 100 50 100C77.555 100 100 77.555 100 50C100 22.445 77.555 0 50 0C50 0 50 0 50 0ZM50 10C72.1506 10 90 27.8494 90 50C90 72.1506 72.1506 90 50 90C27.8494 90 10 72.1506 10 50C10 27.8494 27.8494 10 50 10C50 10 50 10 50 10ZM45 20L45 52.0703L66.4648 73.5352L73.5352 66.4648L55 47.9297L55 20L45 20L45 20Z" style="fill:#000000;mix-blend-mode:normal;" transform="translate(100 100)" />
+  </g>
+</svg>
